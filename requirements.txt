@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+faiss-cpu
+pydantic
+google-generativeai
+crew
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+langchain==0.0.267
+crewai
+tiktoken==0.5.1 
